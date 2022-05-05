@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Ramirez
 
 - 🔭 Hoje trabalho com Idiomas (Professor)
-- 🌱 Estudando Python
+- 🌱 Entrando na área de programação
 - 📫 Contate-me no email: ramirezguivgs@gmail.com
 - 😄 Pronouns: ele/dele
 
