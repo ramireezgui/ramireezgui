@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/ramireezgui">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ramireezgui&theme=gotham">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramireezgui&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramireezgui&layout=compact&theme=gotham"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
