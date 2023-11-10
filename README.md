@@ -1,9 +1,9 @@
 ### Hi! I'm Guilherme ramirez
 
-- 🔭 Intern Customer Experience (Mars.Inc)
+- 🔭 Intern Customer Experience (Mars. Inc)
 - 🌱 IT Student.
 - 📫 E-mail: ramirezguivgs@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/ramireezgui">
