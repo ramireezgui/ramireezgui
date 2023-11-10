@@ -1,8 +1,8 @@
-### Olá! Eu sou o Victor Ramirez
+### Hi! I'm Guilherme ramirez
 
-- 🔭 Hoje trabalho com Idiomas (Professor)
-- 🌱 Entrando na área de programação
-- 📫 Contate-me no email: ramirezguivgs@gmail.com
+- 🔭 Intern Customer Experience (Mars.Inc)
+- 🌱 IT Student.
+- 📫 E-mail: ramirezguivgs@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
